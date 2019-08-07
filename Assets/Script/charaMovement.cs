@@ -73,6 +73,7 @@ public class charaMovement : MonoBehaviour {
 		SetMovementSpeed();
 	    JumpInput();
 
+
     }
 
 	private bool OnSlope(){
